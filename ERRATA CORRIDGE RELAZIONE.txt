@@ -1,0 +1,1 @@
+Pag 17, sotto la figura 10: L'area da considerare è quella laterale (tipo faccia a destra), quella di contatto tra un layer e l'altro. OK. Vale T*H, OK. H vale 20 um, non 2 um! (sesta riga dall'alto)
